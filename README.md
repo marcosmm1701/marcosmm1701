@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Marcos Muñoz 👋</h1>
 </div>
-<img src="https://imageshack.com/i/pmnEWr22j">
+<img src="https://imagizer.imageshack.com/img922/2636/nEWr22.jpg">
 
 
 ## Sobre mi
