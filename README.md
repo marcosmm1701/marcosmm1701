@@ -16,7 +16,7 @@
 <td width="50%">
 <h3 align="center">Página Web completa</h3>
 <div align="center">
-<a href="[![Captura-de-pantalla-2025-05-11-222304.png](https://i.postimg.cc/HxTsjFkY/Captura-de-pantalla-2025-05-11-222304.png)](https://postimg.cc/QBnry47w)" target="_blank"><img src="https://ibb.co/7NNF4sHc" width="400" alt="Chess Tournament Manager"></a>
+<a href="https://photos.app.goo.gl/6WAoMG9vN4jfbSpt8" target="_blank"><img src="https://ibb.co/7NNF4sHc" width="400" alt="Chess Tournament Manager"></a>
 
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
 </div>
