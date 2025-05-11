@@ -1,12 +1,12 @@
 <div align="center">
-<h1 align="center">Hola, soy Marcos Muñoz 👋</h1>
+<h1 align="center">Hy, I`m Marcos Muñoz 👋</h1>
 </div>
 <img src="https://imagizer.imageshack.com/img922/2636/nEWr22.jpg">
 
 
-## Sobre mi
+## About me
 
-- ⭐ Github Star ⭐ 
+- Computer ingeneering student 📗
 - 📲 Mobile developer
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
