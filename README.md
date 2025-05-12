@@ -5,23 +5,12 @@
 <!-- Incluye esto en tu <head> si aún no usas Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<div style="display: flex; gap: 1rem; align-items: center; font-family: sans-serif;">
 
-  <!-- Gmail -->
-  <a href="mailto:marcosmunozmerchan@gmail.com" target="_blank"><img src="https://i.imgur.com/5TsoRAv.jpeg" width="20">
-  Gmail</a>
+## 🌟 Mis Redes Sociales
 
-  <!-- Instagram -->
-  <a href="https://instagram.com/marcos.009" target="_blank" style="text-decoration: none; color: #E4405F;">
-     📸
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/marcos-mu%C3%B1oz-53a64a333/" target="_blank" style="text-decoration: none; color: #0077B5;">
-    💼
-  </a>
-
-</div>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="16" alt="Gmail"> **Email**: [Escríbeme](mailto:marcosmunozmerchan@gmail.com)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="16" alt="Instagram"> **Instagram**: [@tuusuario](https://instagram.com/marcos.009)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16" alt="LinkedIn"> **LinkedIn**: [Perfil profesional](https://linkedin.com/in/marcos-mu%C3%B1oz-53a64a333/)  
 
 
 ## About me
