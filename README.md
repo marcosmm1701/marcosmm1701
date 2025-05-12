@@ -9,8 +9,8 @@
 
   <!-- Gmail -->
   <a href="mailto:marcosmunozmerchan@gmail.com" target="_blank" style="text-decoration: none; color: #EA4335;">
-    📧
   </a>
+  <a href="mailto:marcosmunozmerchan@gmail.com" target="_blank"><img src="https://i.imgur.com/5TsoRAv.jpeg" width="20"></a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/marcos.009" target="_blank" style="text-decoration: none; color: #E4405F;">
