@@ -29,14 +29,6 @@
 <div align="center">                                       
 <a href="" target="_blank"><img src="https://i.imgur.com/VoK3uA3.png" width="400" alt="Servidor http"></a>
 <br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
 </p>Este proyecto implementa un <strong>servidor web</strong> simple pero funcional utilizando sockets en Python. Es capaz de gestionar múltiples conexiones simultáneas, servir contenido estático (HTML, CSS, imágenes) y responder correctamente a peticiones HTTP básicas (GET, POST, OPTIONS). Además, incluye gestión de errores (como 404) y una arquitectura modular que facilita su comprensión y extensión.</p>
 </div>                                                             
 </table>                                                                                 
