@@ -2,6 +2,27 @@
 <h1 align="center">Hy, I'm Marcos Muñoz 👋</h1>
 </div>
 <img src="https://imagizer.imageshack.com/img922/2636/nEWr22.jpg">
+<!-- Incluye esto en tu <head> si aún no usas Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<div style="display: flex; gap: 1rem; align-items: center; font-family: sans-serif;">
+
+  <!-- Gmail -->
+  <a href="mailto:marcosmunozmerchan@gmail.com" target="_blank" style="text-decoration: none; color: #EA4335;">
+    <i class="fas fa-envelope"></i> Gmail
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/marcos.009" target="_blank" style="text-decoration: none; color: #E4405F;">
+    <i class="fab fa-instagram"></i> Instagram
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/marcos-mu%C3%B1oz-53a64a333/" target="_blank" style="text-decoration: none; color: #0077B5;">
+    <i class="fab fa-linkedin"></i> LinkedIn
+  </a>
+
+</div>
 
 
 ## About me
