@@ -9,17 +9,17 @@
 
   <!-- Gmail -->
   <a href="mailto:marcosmunozmerchan@gmail.com" target="_blank" style="text-decoration: none; color: #EA4335;">
-    <i class="fas fa-envelope"></i> 📧
+    📧
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/marcos.009" target="_blank" style="text-decoration: none; color: #E4405F;">
-    <i class="fab fa-instagram"></i> 📸
+     📸
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/marcos-mu%C3%B1oz-53a64a333/" target="_blank" style="text-decoration: none; color: #0077B5;">
-    <i class="fab fa-linkedin"></i> 💼
+    💼
   </a>
 
 </div>
