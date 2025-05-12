@@ -18,7 +18,7 @@
 <div align="center">
 <a href="https://github.com/marcosmm1701/PSI" target="_blank"><img src="https://i.imgur.com/5AFiALM.png" width="400" alt="Chess Tournament Manager"></a>
 
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Chess Tournament Manager es una plataforma web para la gestión integral de torneos de ajedrez, tanto presenciales (OTB) como en línea (Lichess). Permite a los administradores crear torneos, gestionar jugadores, registrar resultados y consultar rankings en tiempo real.</p>
 </div>
                                                                                       
 </td>
