@@ -6,11 +6,11 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 
-## 🌟 Mis Redes Sociales
+## 🌟 My Social Media
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="16" alt="Gmail"> **Email**: [Escríbeme](mailto:marcosmunozmerchan@gmail.com)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="16" alt="Gmail"> **Email**: [Write Me](mailto:marcosmunozmerchan@gmail.com)  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="16" alt="Instagram"> **Instagram**: [@marcos.009](https://instagram.com/marcos.009)  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16" alt="LinkedIn"> **LinkedIn**: [Perfil profesional](https://linkedin.com/in/marcos-mu%C3%B1oz-53a64a333/)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16" alt="LinkedIn"> **LinkedIn**: [Professional Profile](https://linkedin.com/in/marcos-mu%C3%B1oz-53a64a333/)  
 
 
 ## About me
@@ -19,7 +19,7 @@
 - 🔐 Strong insterest on cybersecurity and ethical hacking.
 - 🧑🏻‍💻 Complete geek of crypto/blockchain world.
 
-## Últimos Proyectos Destacados
+## Latests Outstanding Proyects
 <table>
 <tr>
 <td width="50%">
