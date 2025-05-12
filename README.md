@@ -14,9 +14,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Página Web completa</h3>
+<h3 align="center">Chess Tournament Manager</h3>
 <div align="center">
-<a href="https://github.com/marcosmm1701/PSI" target="_blank"><img src="https://imgur.com/a/8uqF0PZ" width="400" alt="Chess Tournament Manager"></a>
+<a href="https://github.com/marcosmm1701/PSI" target="_blank"><img src="https://i.imgur.com/5AFiALM.png" width="400" alt="Chess Tournament Manager"></a>
 
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
 </div>
