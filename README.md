@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Este proyecto implementa un <strong>servidor web</strong> simple pero funcional utilizando sockets en Python. Es capaz de gestionar múltiples conexiones simultáneas, servir contenido estático (HTML, CSS, imágenes) y responder correctamente a peticiones HTTP básicas (GET, POST, OPTIONS). Además, incluye gestión de errores (como 404) y una arquitectura modular que facilita su comprensión y extensión.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
