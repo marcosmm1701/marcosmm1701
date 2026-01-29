@@ -27,7 +27,7 @@
 <div align="center">
 <a href="https://github.com/marcosmm1701/PSI" target="_blank"><img src="https://i.imgur.com/5AFiALM.png" width="400" alt="Chess Tournament Manager"></a>
 
-<p>Chess Tournament Manager es una plataforma web para la gestión integral de torneos de ajedrez, tanto presenciales (OTB) como en línea (Lichess). Permite a los administradores crear torneos, gestionar jugadores, registrar resultados y consultar rankings en tiempo real.</p>
+<p>Chess Tournament Manager is a web platform for the comprehensive management of chess tournaments, both in-person (OTB) and online (Lichess). It allows administrators to create tournaments, manage players, record results, and view rankings in real time.</p>
 </div>
                                                                                       
 </td>
@@ -38,7 +38,7 @@
 <div align="center">                                       
 <a href="" target="_blank"><img src="https://i.imgur.com/VoK3uA3.png" width="400" alt="Servidor http"></a>
 <br>
-</p>Este proyecto implementa un <strong>servidor web</strong> simple pero funcional utilizando sockets en Python. Es capaz de gestionar múltiples conexiones simultáneas, servir contenido estático (HTML, CSS, imágenes) y responder correctamente a peticiones HTTP básicas (GET, POST, OPTIONS). Además, incluye gestión de errores (como 404) y una arquitectura modular que facilita su comprensión y extensión.</p>
+</p>This project implements a simple yet functional <strong>web server</strong> using sockets in Python. It can handle multiple simultaneous connections, serve static content (HTML, CSS, images), and respond correctly to basic HTTP requests (GET, POST, OPTIONS). Furthermore, it includes error handling (such as 404 errors) and a modular architecture that facilitates its understanding and extension.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
