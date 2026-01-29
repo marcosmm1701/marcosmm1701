@@ -17,7 +17,7 @@
 
 - 📗 Computer ingeneering student.
 - 🔐 Strong insterest on cybersecurity and ethical hacking.
-- 🧑🏻‍💻 Complete geek of crypto/blockchain world.
+- 🧑🏻‍💻 Complete geek of blockchain technology.
 
 ## Latests Outstanding Proyects
 <table>
