@@ -122,7 +122,7 @@ An educational Python scanner inspired by common OWASP security concepts, capabl
 
 ## Citalia
 
-**A multi-tenant SaaS platform for aesthetic clinics.**
+**A multi-tenant SaaS platform for clinics and littel business.**
 
 Citalia is a personal software project focused on automating patient communication, lead management and appointment workflows.
 
