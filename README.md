@@ -21,7 +21,7 @@
 
 ## 👋 About me
 
-I'm a **Computer Engineer** interested in the intersection of **cybersecurity, software engineering and intelligent systems**.
+I'm a **Computer Engineer** interested in the intersection of **cybersecurity, AI, software engineering and intelligent systems**.
 
 I enjoy building things from the ground up, understanding how systems behave internally, and then trying to break them, secure them or make them work under real-world constraints.
 
